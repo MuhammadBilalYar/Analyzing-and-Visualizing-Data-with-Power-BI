@@ -29,9 +29,9 @@ This is solution of Microsoft professional program for Data Scientist "DAT207x A
 ![Sales Breakdown](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/master/Lab3%20-%20All%20Exercise%20Solution/Images/Sales%20Breakdown.PNG)
 
 ### Top Products
-![Top Products](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/mater/Lab3%20-%20All%20Exercise%20Solution/Images/Top%20Products.PNG)
+![Top Products](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/master/Lab3%20-%20All%20Exercise%20Solution/Images/Top%20Products.PNG)
 
-###Yearly Trend
+### Yearly Trend
 ![Yearly Trend](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/master/Lab3%20-%20All%20Exercise%20Solution/Images/Yearly%20Trend.PNG)
 
 ## Lab 4 Overview :
