@@ -8,6 +8,8 @@ This is solution of Microsoft professional program for Data Scientist "DAT207x A
 
 **[Exercise 3: Import a Less Structured Data from an Excel File](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/wiki/Lab-1---Exercise-3:)**
 
+![Lab All Exercise ](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/master/Lab1%20-%20All%20Exercise%20Solution/Images/Import%20Data%20from%20Access%20Database.PNG)
+
 ## Lab 2 Overview :
 ## Lab 3 Overview :
 ## Lab 4 Overview :
