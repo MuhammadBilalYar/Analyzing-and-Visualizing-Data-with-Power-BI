@@ -35,7 +35,19 @@ This is solution of Microsoft professional program for Data Scientist "DAT207x A
 ![Yearly Trend](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/master/Lab3%20-%20All%20Exercise%20Solution/Images/Yearly%20Trend.PNG)
 
 ## Lab 4 Overview :
+
+### Working with Power BI Service
+![Working with Power BI Service](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/master/Lab4%20-%20All%20Exercise%20Solution/Images/Working%20with%20Power%20BI%20Service.PNG)
+
 ## Lab 5 Overview :
-## Lab 6 Overview :
-## Lab 7 Overview :
+
+### Total Sales, Total Units and YTD Sales by Category, Segment and Year
+![Total Sales, Total Units and YTD Sales by Category, Segment and Year](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/master/Lab5%20-%20All%20Exercise%20Solution/Total%20Sales%2C%20Total%20Units%20and%20YTD%20Sales%20by%20Category%2C%20Segment%20and%20Year.PNG)
+
 ## Lab 8 Overview :
+
+### Sale by Region
+![Sale by Region](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/master/Lab8%20-%20All%20Exercise%20Solution/Images/Sale%20by%20Region.PNG)
+
+### Sales Report
+![Sales Report](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/master/Lab8%20-%20All%20Exercise%20Solution/Images/Sales%20Report.PNG)
