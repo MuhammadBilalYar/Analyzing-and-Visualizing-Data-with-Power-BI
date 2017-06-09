@@ -11,6 +11,12 @@ This is solution of Microsoft professional program for Data Scientist "DAT207x A
 ![Lab All Exercise ](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/master/Lab1%20-%20All%20Exercise%20Solution/Images/Import%20Data%20from%20Access%20Database.PNG)
 
 ## Lab 2 Overview :
+![Last Year Comparison](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/master/Lab2%20-%20All%20Exercise%20Solution/Images/Exercise%202%20Last%20Year%20Comparison.PNG)
+
+![Year to Date](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/master/Lab2%20-%20All%20Exercise%20Solution/Images/Exercise%203%20Year%20to%20Date.PNG)
+
+![Market Share](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/blob/master/Lab2%20-%20All%20Exercise%20Solution/Images/Exercise%204%20Market%20Share.PNG)
+
 ## Lab 3 Overview :
 ## Lab 4 Overview :
 ## Lab 5 Overview :
