@@ -1,6 +1,13 @@
 # Analyzing and Visualizing Data with **[Power BI](https://powerbi.microsoft.com/en-us/?wt.mc_id=DXLEX_edx_DAT207x)**
 This is solution of Microsoft professional program for Data Scientist "DAT207x Analyzing and Visualizing Data with Power BI"
 
+**[Live Report 1]
+(https://app.powerbi.com/view?r=eyJrIjoiNTI1Yjg2Y2QtZTBlMi00NjhlLThlMjMtODZhM2YyMzNkOTJhIiwidCI6Ijc1ZGYwOTZjLThiNzItNDhlNC05YjkxLWNiZjc5ZDg3ZWUzYSIsImMiOjl9)**
+
+
+**[Live Report 2]
+(https://app.powerbi.com/view?r=eyJrIjoiZjk1ZWI5NmQtMjRiNC00YTViLTk3MGItYTJhODk2NjkzYWEwIiwidCI6Ijc1ZGYwOTZjLThiNzItNDhlNC05YjkxLWNiZjc5ZDg3ZWUzYSIsImMiOjl9ZGYwOTZjLThiNzItNDhlNC05YjkxLWNiZjc5ZDg3ZWUzYSIsImMiOjl9)**
+
 ## Lab 1 Overview :
 **[Exercise 1: Import Data from Access Database](https://github.com/MuhammadBilalYar/Analyzing-and-Visualizing-Data-with-Power-BI/wiki/Lab-1---Exercise-1:)**
 
